@@ -156,7 +156,7 @@ all hyperparameters. Compare side-by-side on the
 
 | Roll No. | Name | Role |
 |---|---|---|
-| G25AIT2079 | **Rajath S M** | Lead — pipeline, training, Docker, CI/CD |
+| G25AIT2079 | Rajath S M | Pipeline, training, Docker, CI/CD |
 | G25AIT2069 | Nilajit Sarkar | Data preparation & W&B tracking |
 | G25AIT2130 | Vishvesh Rajpurohit | Model selection & Hugging Face Hub |
 | G25AIT2142 | Niketh Varma Tirumalaraju | GitHub Actions & report |
