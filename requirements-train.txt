@@ -1,0 +1,9 @@
+# Full training stack — used in the Kaggle notebooks and for local data prep.
+# Includes everything in requirements.txt plus training-only packages.
+-r requirements.txt
+datasets>=2.19.0
+scikit-learn>=1.4.0
+pandas>=2.2.0
+wandb>=0.17.0
+accelerate>=0.30.0
+evaluate>=0.4.0

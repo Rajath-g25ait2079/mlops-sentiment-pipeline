@@ -1,0 +1,21 @@
+# Keep the build context (and image) small and free of secrets.
+.git/
+.github/
+notebooks/
+docs/
+data/
+results/
+wandb/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.key
+kaggle.json
+.ipynb_checkpoints/
+.DS_Store
+README.md
+RUNBOOK.md
+SUBMISSION_CHECKLIST.md
+requirements-train.txt

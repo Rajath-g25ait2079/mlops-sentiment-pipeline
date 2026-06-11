@@ -1,0 +1,6 @@
+# Inference + CI dependencies (kept slim so the Docker image stays small).
+# Training-only packages live in requirements-train.txt.
+torch>=2.2.0
+transformers>=4.40.0
+numpy>=1.26.0
+huggingface_hub>=0.23.0
