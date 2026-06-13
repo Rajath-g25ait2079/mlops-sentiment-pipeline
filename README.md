@@ -23,7 +23,7 @@ accuracy. The model is treated as a black box.
 | Kaggle Notebook — Version 2 | https://www.kaggle.com/rajathsmg25ait2079/mlops-sentiment-v2 |
 | Hugging Face Model | https://huggingface.co/Rajath-g25ait2079/distilbert-sst2-sentiment/tree/main |
 | Docker Image (Docker Hub) | https://hub.docker.com/r/rajathsmg25ait2079/mlops-a3-inference |
-| W&B Project Dashboard | https://wandb.ai/g25ait2079/mlops-assignment3 |
+| W&B Project Dashboard | https://wandb.ai/g25ait2079-iit-jodhpur/mlops-assignment3 |
 
 
 ---
