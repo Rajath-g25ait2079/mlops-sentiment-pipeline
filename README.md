@@ -21,9 +21,9 @@ accuracy. The model is treated as a black box.
 | GitHub Repository | https://github.com/Rajath-g25ait2079/mlops-sentiment-pipeline |
 | Kaggle Notebook — Version 1 | https://www.kaggle.com/rajathsmg25ait2079/mlops-sentiment-v1 |
 | Kaggle Notebook — Version 2 | https://www.kaggle.com/rajathsmg25ait2079/mlops-sentiment-v2 |
-| Hugging Face Model | https://huggingface.co/Rajath-g25ait2079/distilbert-sst2-sentiment |
+| Hugging Face Model | https://huggingface.co/Rajath-g25ait2079/distilbert-sst2-sentiment/tree/main |
 | Docker Image (Docker Hub) | https://hub.docker.com/r/rajathsmg25ait2079/mlops-a3-inference |
-| W&B Project Dashboard | https://wandb.ai/g25ait2079/mlops-assignment3 |
+| W&B Project Dashboard | https://wandb.ai/g25ait2079-iit-jodhpur/mlops-assignment3 |
 
 
 ---
