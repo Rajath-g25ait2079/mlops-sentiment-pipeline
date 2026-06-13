@@ -10,7 +10,7 @@ on Kaggle, automates CI + inference with GitHub Actions, and tracks every run on
 Weights & Biases.
 
 The point of this project is **command of the full MLOps workflow**, not peak
-accuracy. The model is treated as a black box; the engineering around it is the deliverable.
+accuracy. The model is treated as a black box.
 
 ---
 
