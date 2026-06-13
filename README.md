@@ -25,8 +25,6 @@ accuracy. The model is treated as a black box.
 | Docker Image (Docker Hub) | https://hub.docker.com/r/rajathsmg25ait2079/mlops-a3-inference |
 | W&B Project Dashboard | https://wandb.ai/g25ait2079/mlops-assignment3 |
 
-> ⚠️ Replace placeholder notebook slugs with the real ones once published, and make
-> every link **public** before submission. Broken or private links score zero.
 
 ---
 
